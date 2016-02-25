@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./omniumconciliiv01martgoog_0130.png"; bbox 0 0 2954 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 420 1681 973 1772">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 420 1681 973 1772">
+     <span class='ocr_line' id='line_1_1' title="bbox 420 1681 973 1772; baseline -0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 420 1766 423 1772; x_wconf 11' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 471 1682 625 1758; x_wconf 74' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 663 1681 973 1759; x_wconf 82' lang='lat' dir='ltr'><strong>SECUNDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 155 1999 1297 2367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 1999 1297 2367">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 1999 1290 2132; baseline 0.001 -21"><span class='ocrx_word' id='word_1_4' title='bbox 155 1999 552 2132; x_wconf 72' lang='lat' dir='ltr'><strong>DOOUMENTA,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 591 2001 761 2118; x_wconf 66' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 798 2001 1163 2114; x_wconf 71' lang='lat' dir='ltr'>PERTINENT</span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 2002 1290 2113; x_wconf 78' lang='lat' dir='ltr'><strong>AD·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 319 2192 1297 2367; baseline -0.001 -63"><span class='ocrx_word' id='word_1_8' title='bbox 319 2313 330 2335; x_wconf 11' lang='lat'><strong>,¹</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 509 2192 935 2308; x_wconf 72' lang='lat' dir='ltr'><strong>mscffmNAM.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1111 2259 1114 2265; x_wconf 84' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1295 2359 1297 2367; x_wconf 12' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1482 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1482 4936">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1482 4936; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1482 4936; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
